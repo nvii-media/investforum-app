@@ -14,7 +14,7 @@
 
 <plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
 
-<plugin name="org.apache.cordova.inappbrowser" source="pgb" spec="3.0.0" />
+<plugin name="org.apache.cordova.inappbrowser" />
 
 <plugin name="org.apache.cordova.media-capture" source="pgb" spec="0.3.6" />
 
